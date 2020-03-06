@@ -1,0 +1,16 @@
+.mobile{
+    color: violet;
+    background-color:#1b262c ;
+    position: -webkit-sticky; /* Safari */
+    position: fixed; 
+    bottom: 0;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 100%;
+    height: 10vh;
+  }
+nav img{
+    width: 10vw;
+    padding: 1vw;
+  } 
